@@ -23,6 +23,6 @@ spec:
         - secretRef:
             name: db-secret
         name: db-deployment
-        image: docker pull harbor.dev.afsmtddso.com/meverist-harbor-project/db:971c881-fd69744
+        image: harbor.dev.afsmtddso.com/meverist-harbor-project/db:971c881-fd69744
         ports:
         - containerPort: 5432
