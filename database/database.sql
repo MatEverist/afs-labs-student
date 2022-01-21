@@ -5,7 +5,7 @@
 -- Dumped from database version 9.5.4
 -- Dumped by pg_dump version 9.5.4
 
--- Adding a comment!!
+-- Adding a comment!! Now im updating it.
 
 SET statement_timeout = 0;
 SET lock_timeout = 0;
